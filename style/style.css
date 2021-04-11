@@ -256,10 +256,6 @@ footer a {
     text-align: center;
 }
 
-.mrover-sam img {
-    max-width: 225px;
-}
-
 @media (min-width: 768px) {
     .image-above .experience-image {
         display: none;
